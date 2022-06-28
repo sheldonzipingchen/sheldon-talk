@@ -1,5 +1,3 @@
-name: Deploy Hugo # 任君喜欢
-
 name: deploy
 
 on:
