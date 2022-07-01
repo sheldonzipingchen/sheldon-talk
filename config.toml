@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://sheldonzipingchen.github.io'
 languageCode = 'en-us'
 theme = 'ezhil'
 title = 'Sheldon Talk'
